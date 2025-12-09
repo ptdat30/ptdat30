@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Huỳnh Phong Đạt!
+# 👋 ptdat!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300D9FF&size=30&center=true&vCenter=true&width=450&lines=Full-stack+Developer;Year+3+IT+Student+%40+UTH;Always+Learning+New+Things" alt="Typing SVG" />
 
@@ -15,7 +15,7 @@
 
 ## 📖 Về Tôi
 
-Là sinh viên năm 3 chuyên ngành **Công nghệ thông tin** tại **Trường Đại học Giao thông Vận tải TP.HCM (UTH)** với niềm đam mê xây dựng các ứng dụng web. Tôi có nền tảng vững chắc về lập trình hướng đối tượng (OOP) và kinh nghiệm thực hành với **Java Spring Boot** và **React/Next.js**. Tôi đang tìm kiếm cơ hội thực tập để áp dụng kiến thức vào thực tế và phát triển kỹ năng Full-stack.
+Tôi tên là **HUỲNH PHONG ĐẠT** là sinh viên năm 3 chuyên ngành **Công nghệ thông tin** tại **Trường Đại học Giao thông Vận tải TP.HCM (UTH)** với niềm đam mê xây dựng các ứng dụng web. Tôi có nền tảng vững chắc về lập trình hướng đối tượng (OOP) và kinh nghiệm thực hành với **Java Spring Boot** và **React/Next.js**. Tôi đang tìm kiếm cơ hội thực tập để áp dụng kiến thức vào thực tế và phát triển kỹ năng Full-stack.
 
 - 📍 **Vị trí:** TP. Hồ Chí Minh
 - 🎂 **Sinh nhật:** 19/11/2005
