@@ -2,10 +2,12 @@
 
 # 👋 Xin chào, Tôi là Huỳnh Phong Đạt!
 
-### 🎓 Sinh viên năm 3 - Công nghệ thông tin | Full-stack Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300D9FF&size=30&center=true&vCenter=true&width=450&lines=Full-stack+Developer;Year+3+IT+Student+%40+UTH;Always+Learning+New+Things" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/ptdat30?style=social)](https://github.com/ptdat30)
-[![GitHub stars](https://img.shields.io/github/stars/ptdat30?style=social)](https://github.com/ptdat30)
+![Profile Views](https://komarev.com/ghpvc/?username=ptdat30&color=00D9FF&style=flat-square)
+
+[![GitHub followers](https://img.shields.io/github/followers/ptdat30?style=social&label=Follow)](https://github.com/ptdat30)
+[![GitHub stars](https://img.shields.io/github/stars/ptdat30?style=social&label=Stars)](https://github.com/ptdat30)
 
 </div>
 
@@ -51,42 +53,92 @@ Là sinh viên năm 3 chuyên ngành **Công nghệ thông tin** tại **Trườ
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ptdat30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<table>
+<tr>
+<td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ptdat30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ptdat30&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117&locale=vi)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ptdat30&theme=tokyonight&hide_border=true&background=0D1117)
+</td>
+<td width="50%">
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=ptdat30&theme=tokyonight&hide_border=true&locale=vi&date_format=M%20j%5B%2C%20Y%5D)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ptdat30&layout=compact&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117&locale=vi)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Dự án nổi bật
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🔹 [Project_Java](https://github.com/ptdat30/Project_Java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+<br>
 Dự án Java với các tính năng và ứng dụng thực tế.
 
+</td>
+<td width="50%">
+
 ### 🔹 [Digital CV Portfolio](https://github.com/ptdat30/digital-cv-portfolio)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br>
 Portfolio cá nhân được xây dựng với HTML/CSS hiện đại.
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🔹 [EV Charging Station Management System](https://github.com/ptdat30/EV-Charging-Station-Management-System)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+<br>
 Hệ thống quản lý trạm sạc xe điện - Full-stack application.
 
+</td>
+<td width="50%">
+
 ### 🔹 [Doctor Booking System](https://github.com/TrongDang2608/Doctor-Booking-System)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br>
 Hệ thống đặt lịch khám bác sĩ - Collaborative project.
 
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%">
+
 ### 🔹 [Gacha Photo Collection System](https://github.com/ptdat30/Gacha-Photo-Collection-System)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br>
 Hệ thống sưu tập ảnh Gacha - Fun project.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📈 Hoạt động GitHub
 
 <div align="center">
-  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ptdat30&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ptdat30)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ptdat30&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&line=00D9FF&point=00D9FF&color=ffffff)
 
 </div>
 
@@ -94,8 +146,19 @@ Hệ thống sưu tập ảnh Gacha - Fun project.
 
 ## 🏆 GitHub Achievements
 
-- 🦈 **Pull Shark** x2 - Đóng góp Pull Request chất lượng
-- ⚡ **Quickdraw** - Phản hồi nhanh chóng
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ptdat30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+
+</div>
+
+<div align="center">
+
+🦈 **Pull Shark** x2 | ⚡ **Quickdraw**
+
+*Đóng góp Pull Request chất lượng và phản hồi nhanh chóng*
+
+</div>
 
 ---
 
