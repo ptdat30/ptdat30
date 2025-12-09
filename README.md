@@ -51,23 +51,7 @@ Là sinh viên năm 3 chuyên ngành **Công nghệ thông tin** tại **Trườ
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ptdat30&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117&locale=vi&include_all_commits=true)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ptdat30&layout=compact&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117&locale=vi)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=ptdat30&theme=tokyonight&hide_border=true&locale=vi&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
----
 
 ## 🚀 Dự án nổi bật
 
@@ -140,8 +124,6 @@ Hệ thống sưu tập ảnh Gacha - Fun project.
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ptdat30&theme=onedark&no-frame=false&no-bg=false&margin-w=8&margin-h=8&row=1&column=6)
-
 </div>
 
 <div align="center">
@@ -160,7 +142,7 @@ Hệ thống sưu tập ảnh Gacha - Fun project.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhphongdat2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ptdat30)
 
