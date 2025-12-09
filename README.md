@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Xin chào, Tôi là Huỳnh Phong Đạt!
+# 👋 Huỳnh Phong Đạt!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300D9FF&size=30&center=true&vCenter=true&width=450&lines=Full-stack+Developer;Year+3+IT+Student+%40+UTH;Always+Learning+New+Things" alt="Typing SVG" />
 
@@ -53,27 +53,19 @@ Là sinh viên năm 3 chuyên ngành **Công nghệ thông tin** tại **Trườ
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ptdat30&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117&locale=vi)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ptdat30&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117&locale=vi&include_all_commits=true)
 
-</td>
-<td width="50%">
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=ptdat30&theme=tokyonight&hide_border=true&locale=vi&date_format=M%20j%5B%2C%20Y%5D)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" width="100%">
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ptdat30&layout=compact&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117&locale=vi)
 
-</td>
-</tr>
-</table>
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=ptdat30&theme=tokyonight&hide_border=true&locale=vi&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
 
 ---
 
@@ -148,11 +140,13 @@ Hệ thống sưu tập ảnh Gacha - Fun project.
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ptdat30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=ptdat30&theme=onedark&no-frame=false&no-bg=false&margin-w=8&margin-h=8&row=1&column=6)
 
 </div>
 
 <div align="center">
+
+### 🏅 Achievements Earned
 
 🦈 **Pull Shark** x2 | ⚡ **Quickdraw**
 
