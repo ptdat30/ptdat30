@@ -223,30 +223,6 @@ Hệ thống sưu tập ảnh Gacha - Fun project.
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<!-- 
-Snake animation will appear here after you:
-1. Push this repo to GitHub
-2. Go to Actions tab → Run "Generate Snake Animation" workflow manually
-3. Wait for it to complete, then uncomment the line below
--->
-
-<img src="https://raw.githubusercontent.com/ptdat30/ptdat30/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" onerror="this.style.display='none'" />
-
-<details>
-<summary>💡 <b>Cách kích hoạt Snake Animation</b></summary>
-
-1. Push code lên GitHub (repository tên `ptdat30`)
-2. Vào tab **Actions** trong repository
-3. Chọn workflow **"Generate Snake Animation"** 
-4. Click **"Run workflow"** → chọn branch `main` → **Run workflow**
-5. Đợi workflow chạy xong (khoảng 1-2 phút)
-6. File sẽ được tạo ở branch `output`
-7. Refresh README để thấy snake animation!
-
-</details>
-
 </div>
 
 </div>
