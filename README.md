@@ -15,16 +15,6 @@
 
 ---
 
-## 📖 Về Tôi
-
-Tôi tên là **HUỲNH PHONG ĐẠT** là sinh viên năm 3 chuyên ngành **Công nghệ thông tin** tại **Trường Đại học Giao thông Vận tải TP.HCM (UTH)** với niềm đam mê xây dựng các ứng dụng web. Tôi có nền tảng vững chắc về lập trình hướng đối tượng (OOP) và kinh nghiệm thực hành với **Java Spring Boot** và **React/Next.js**. Tôi đang tìm kiếm cơ hội thực tập để áp dụng kiến thức vào thực tế và phát triển kỹ năng Full-stack.
-
-- 📍 **Vị trí:** TP. Hồ Chí Minh
-- 🎂 **Sinh nhật:** 19/11/2005
-- 🏫 **Trường:** Đại học Giao thông Vận tải TP.HCM (UTH)
-- 📅 **Thời gian học:** 2023 - Hiện tại (Sinh viên năm 3)
-
----
 
 <div align="center">
 
